@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("https://d.radikal.ru/d22/2004/9d/b77c00f95cd3.jpg");
+  background-image: url("https://a.radikal.ru/a38/2004/d1/812ad7552873.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -38,12 +38,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("https://c.radikal.ru/c28/2004/b7/ec46f2b5dedf.jpg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("https://d.radikal.ru/d29/2004/9a/1b8c684d94fe.jpg");
 }
 
 .hero-image {
@@ -111,11 +111,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("https://c.radikal.ru/c06/2004/d5/f5f741eb6e30.jpg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("https://a.radikal.ru/a40/2004/94/73d49a482148.jpg");
 }
 
 .level {
@@ -185,10 +185,10 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("https://c.radikal.ru/c03/2004/53/f2823119ef41.jpg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("https://c.radikal.ru/c22/2004/2b/57b3bb906882.jpg");
 }
