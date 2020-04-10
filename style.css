@@ -4,9 +4,9 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("https://a.radikal.ru/a38/2004/d1/812ad7552873.jpg");
+  color: #f2f2f2;
+  background-color: #080208;
+  background-image: url("/img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .page-header {
-  margin: 0 0 160px;
+  margin: 0 0 180px;
   padding: 32px 0 32px;
 }
 
@@ -30,7 +30,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #fea18d;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -38,16 +38,16 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("https://c.radikal.ru/c28/2004/b7/ec46f2b5dedf.jpg");
+  background-image: url("/img/icon-email.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("https://d.radikal.ru/d29/2004/9a/1b8c684d94fe.jpg");
+  background-image: url("/img/icon-phone.svg");
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 480px;
 }
 
 .hero-image .container {
@@ -56,11 +56,9 @@ body {
 }
 
 .heading {
-  margin: 0 0 16px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 88px;
+  margin: 0 0 24px;
+  font-size: 80px;
   line-height: 96px;
-  font-weight: 400;
 }
 
 .hero-image p {
@@ -75,10 +73,8 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
-  font-size: 64px;
+  font-size: 56px;
   line-height: 80px;
-  font-weight: 400;
   text-align: center;
 }
 
@@ -111,11 +107,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("https://c.radikal.ru/c06/2004/d5/f5f741eb6e30.jpg");
+  background-image: url("/img/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("https://a.radikal.ru/a40/2004/94/73d49a482148.jpg");
+  background-image: url("/img/icon-css.svg");
 }
 
 .level {
@@ -123,15 +119,15 @@ body {
   padding: 0;
   height: 14px;
   font-size: 0;
-  background-color: #ffffff;
-  border: 1px solid #86c3fa;
+  background-color: #080208;
+  border: 1px solid #712073;
   border-radius: 8px;
 }
 
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #fea18d;
   border-radius: 6px;
 }
 
@@ -165,19 +161,18 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
+  background-color: #712073;
   color: #ffffff;
 }
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
-  color: #ffffff;
+  background-color: #260c26;
 }
 
 .page-footer a {
   margin-left: 56px;
-  color: inherit;
+  color: #fea18d;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -185,10 +180,10 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("https://c.radikal.ru/c03/2004/53/f2823119ef41.jpg");
+  background-image: url("/img/icon-email.svg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("https://c.radikal.ru/c22/2004/2b/57b3bb906882.jpg");
+  background-image: url("/img/icon-phone.svg");
 }
